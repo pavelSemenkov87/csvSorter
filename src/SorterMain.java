@@ -137,16 +137,8 @@ public class SorterMain {
             return key;
         }
 
-        public void setKey(Integer key) {
-            this.key = key;
-        }
-
         public String getLine() {
             return line;
-        }
-
-        public void setLine(String line) {
-            this.line = line;
         }
     }
 
